@@ -40,6 +40,6 @@
     "undici": "*",
     "vite": "^5.2.10",
     "vite-tsconfig-paths": "^4.2.1",
-    "@qwik-ui/headless": "https://pkg.pr.new/qwikifiers/qwik-ui/@qwik-ui/headless@1a864e8"
+    "my-qwik-library-name": "https://pkg.pr.new/thejackshelton/debug-comp-lib/my-qwik-library-name@54b182a"
   }
 }
